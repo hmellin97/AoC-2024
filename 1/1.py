@@ -1,7 +1,7 @@
 list1 = []
 list2 = []
 
-file_name = "input.txt"  # Replace with your file name
+file_name = "input.txt"
 
 with open(file_name, 'r') as file:
     for line in file:
